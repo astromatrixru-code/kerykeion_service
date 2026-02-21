@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# cache files 
+cache/
+
+# Tmp files
+*.svg
+.DS_Store
+
+# front build
+front/
